@@ -1,0 +1,2 @@
+export const GET_DEPARTMENT = 'GET_DEPARTMENT';
+export const GET_STYLE = 'GET_STYLE'; //NOT IMPLEMENTED
